@@ -22,7 +22,7 @@ Goal
 Submission File Format
 ----------------------
 
-![Submission_File_Format](./Image/Submission_File_Format.png)
+![Submission_File_Format](./Image/Submission_File_Format.PNG)
 
 Dataset
 -------
@@ -45,7 +45,7 @@ Model
 -	Loss Func: CrossEntropy
 -	Optimizer: Adam
 
-![Model](./Image/Model.png)
+![Model](./Image/Model.PNG)
 
 Result
 ------
@@ -55,7 +55,7 @@ Result
 -	Epoch: 30
 -	Batch_Size: 1000
 
-![Result](./Image/Result.png)
+![Result](./Image/Result.PNG)
 
 Discussion
 ----------
